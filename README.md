@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hankli0130&theme=vue-dark)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hankli0130&layout=compact&theme=vue-dark)
 ![github stats](https://github-readme-stats.vercel.app/api?username=hankli0130&theme=vue-dark)
 
 <!--
