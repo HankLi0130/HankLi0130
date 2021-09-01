@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hankli0130&theme=vue-dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=hankli0130&theme=vue-dark)
 
 <!--
 **HankLi0130/HankLi0130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
