@@ -2,9 +2,9 @@
 
 ### My name is Hank. I'm an Android developer. I like sharing Android and Kotlin development.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=hankli0130&theme=vue-dark&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=hankli0130&theme=default&show_icons=true)
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hankli0130&theme=vue-dark&layout=compact)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hankli0130&theme=default&layout=compact)
 
 - 📫 hankli0130@gmail.com
 
